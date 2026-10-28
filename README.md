@@ -10,6 +10,11 @@ then shows up right after the meeting ends.
 
 Pure Swift + AppKit via Swift Package Manager — no Xcode project needed.
 
+<img width="3600" height="2336" alt="image" src="https://github.com/user-attachments/assets/a6b87461-da2c-41c8-b744-c90fedfed435" />
+
+## Story
+https://x.com/iamallenjiji/status/2115518777265893383?a=LnnU9m8UHcrlh9LeuAA&s=20
+
 ## Install
 
 Download `Blink.dmg` from the [latest release](https://github.com/allenjiji/blink/releases/latest),
